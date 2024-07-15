@@ -28,6 +28,10 @@ python3 /var/www/html/backend/delete.py &
 service nginx restart
 clear
 echo "LivePub Installed Sucefully! Bye bye!"
+wget https://raw.githubusercontent.com/op3ny/LivePub/main/commands/livepub-start
+wget https://raw.githubusercontent.com/op3ny/LivePub/main/commands/livepub-stop
+mv livepub-start /bin/livepub-start && chmod 777 /bin/livepub-start
+mv livepub-stop /bin/livepub-stop && chmod 777 /bin/livepub-stop
 sleep 3
 echo "Rebooting the system..."
 sleep 2
