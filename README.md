@@ -50,7 +50,11 @@ On your system, you will have three new commands (Works only on root)
 livepub-start
 ```
 Start the LivePub
-```livepub-stop```
+```
+livepub-stop
+```
 Stop the LivePub
-```livepub-uninstall```
+```
+livepub-uninstall
+```
 Will remove all the archives witch he installed (Nginx too)
