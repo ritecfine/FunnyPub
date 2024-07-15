@@ -36,7 +36,9 @@ wget https://raw.githubusercontent.com/op3ny/LivePub/main/script.sh
 ```
 chmod 777 script.sh
 ```
-```./script.sh```
+```
+./script.sh
+```
 
 After all you need to reboot your machine, with this command:
 ```
