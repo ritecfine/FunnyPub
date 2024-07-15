@@ -6,7 +6,7 @@ Hello, my name is Humberto, but you can call me of op3n. Since i was 8 i started
 
 # Let's Start!
 
-Okey, before you start, you need to try use our demo of the LivePub (You can acess by: http://livepub.ddns.net).
+Okey, before you start, you need to try use our demo of the LivePub (You can acess by: [Click here to open](http://livepub.ddns.net)).
 
 This website will run locally on your computer, and i will explain how.
 
@@ -31,7 +31,7 @@ apt update && apt upgrade -y
 apt install wget curl -y
 ```
 ```
-wget lsdfjsdlfkjdlfkjflksdjflkj/script.sh
+wget https://raw.githubusercontent.com/op3ny/LivePub/main/script.sh
 ```
 ```
 chmod 777 script.sh
