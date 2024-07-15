@@ -5,20 +5,15 @@ sudo apt install nginx python3-pip python3 ffmpeg unzip -y
 clear
 echo "Requirements installed sucefully!"
 sleep 3
-sudo service stop nginx
-sudo rm -r /var/www/html/*
+sudo service nginx stop
 sudo rm -r /var/www/html
-sudo mkdir /var/www/html
-wget https://github.com/op3ny/LivePub/archive/refs/heads/main.zip
+cd /var/www/
+wget https://github.com/op3ny/LivePub/raw/main/LivePub.zip
+unzip LivePub.zip
 sudo mkdir /root/livepub
 cp main.zip /root/livepub/main.zip
-mv /root/livepub/main.zip /root/livepub/livepub-bkp.zip
-cp /root/livepub/livepub-bkp.zip /var/www/html/livepub.zip
-cd /var/www/html
-unzip livepub.zip
-cp -r /var/www/html/LivePub-main/* ..
-rm -r /var/www/html/LivePub-main
-rm -r livepub.zip
+mv /var/www/html/LivePub.zip /root/livepub/livepub-bkp.zip
+rm -r LivePub.zip
 rm -r /etc/nginx/nginx.conf
 wget https://raw.githubusercontent.com/op3ny/LivePub/main/backend/nginx.conf
 cp nginx.conf /etc/nginx/nginx.conf
