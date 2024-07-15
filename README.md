@@ -43,7 +43,14 @@ After all you need to reboot your machine, with this command:
 reboot
 ```
 
+# New commands!
+
 On your system, you will have three new commands (Works only on root)
-`livepub-start` - Start the LivePub
-`livepub-stop` - Stop the LivePub
-`livepub-uninstall` - Will remove all the archives witch he installed (Nginx too)
+```
+livepub-start
+```
+Start the LivePub
+```livepub-stop```
+Stop the LivePub
+```livepub-uninstall```
+Will remove all the archives witch he installed (Nginx too)
