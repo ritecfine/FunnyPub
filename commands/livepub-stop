@@ -1,0 +1,23 @@
+service nginx stop
+clear
+echo "We will reboot your machine in: 10 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 9 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 8 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 7 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 6 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 5 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 4 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 3 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 2 (CTRL + C to CANCEL)"
+sleep 1
+echo "We will reboot your machine in: 1 (CTRL + C to CANCEL)"
+sleep 1
+reboot
