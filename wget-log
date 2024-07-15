@@ -1,0 +1,6 @@
+--2024-06-30 01:54:12--  https://export-download.canva.com/uGWCI/DAGJkSuGWCI/7/0-3626956334619572793.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving export-download.canva.com (export-download.canva.com)... 104.16.102.112, 104.16.103.112, 2606:4700::6810:6770, ...
+Connecting to export-download.canva.com (export-download.canva.com)|104.16.102.112|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2024-06-30 01:54:13 ERROR 400: Bad Request.
+
