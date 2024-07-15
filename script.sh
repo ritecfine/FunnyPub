@@ -16,7 +16,7 @@ mv /root/livepub/main.zip /root/livepub/livepub-bkp.zip
 cp /root/livepub/livepub-bkp.zip /var/www/html/livepub.zip
 cd /var/www/html
 unzip livepub.zip
-cp /var/www/html/LivePub-main/* ..
+cp -r /var/www/html/LivePub-main/* ..
 rm -r /var/www/html/LivePub-main
 rm -r livepub.zip
 rm -r /etc/nginx/nginx.conf
