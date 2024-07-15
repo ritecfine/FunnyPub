@@ -21,15 +21,15 @@ Applications: ffmpeg, python3, python3-pip, nginx (The script will do that for y
 
 First you will need to download our script
 Code: 
-`sudo su`
-`apt update && apt upgrade -y`
-`apt install wget curl -y`
-`wget lsdfjsdlfkjdlfkjflksdjflkj/script.sh`
-`chmod 777 script.sh`
-`./script.sh`
+```sudo su```
+```apt update && apt upgrade -y```
+```apt install wget curl -y```
+```wget lsdfjsdlfkjdlfkjflksdjflkj/script.sh```
+```chmod 777 script.sh```
+```./script.sh```
 
 After all you need to reboot your machine, with this command:
-`reboot`
+```reboot```
 
 On your system, you will have three new commands (Works only on root)
 `livepub-start` - Start the LivePub
