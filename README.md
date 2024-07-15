@@ -54,7 +54,3 @@ Start the LivePub
 livepub-stop
 ```
 Stop the LivePub
-```
-livepub-uninstall
-```
-Will remove all the archives witch he installed (Nginx too)
