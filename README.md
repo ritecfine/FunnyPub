@@ -66,3 +66,8 @@ Start the LivePub
 livepub-stop
 ```
 Stop the LivePub
+
+
+# Another Readme
+
+[README in Portuguese / README em Portugues](https://github.com/op3ny/LivePub/blob/main/README-pt-br)
