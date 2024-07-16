@@ -55,7 +55,7 @@ Ao final você precisa reiniciar sua máquina, com este comando:
 reboot
 ```
 
-#Novos comandos!
+# Novos comandos!
 
 No seu sistema, você terá três novos comandos (funciona apenas no root)
 ```
