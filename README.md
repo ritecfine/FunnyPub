@@ -1,8 +1,8 @@
 Section 1 - For the user!
 
-# About me
+# About
 
-Hello, my name is Humberto, but you can call me of op3n. Since i was 8 i started to create projects and Linux things, i always told that internet need to be more "free and open" for the people, and the Open Source, is exacly that, but another thing that i always told is advanced things on softwares need to be more simple, and this project (LivePub) is exacly that, turn the live broadcasts more simple and user-friendly to use. And i can help the developers, because you can use that on your Website!
+Hello! Welcome to LivePub's Github. The LivePub is a Open Source project witch will help you to self host your own Live Broadcast. With a user friendly panel, and a simple way to install! So i hope you will enjoy and Let's Start!
 
 # Let's Start!
 
