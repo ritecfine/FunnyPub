@@ -50,7 +50,7 @@ chmod 777 script.sh
 ./script.sh
 ```
 
-Afinal você precisa reiniciar sua máquina, com este comando:
+Ao final você precisa reiniciar sua máquina, com este comando:
 ```
 reboot
 ```
