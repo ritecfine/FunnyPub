@@ -4,6 +4,10 @@ Seção 1 - Para o usuário!
 
 Olá! Bem-vindo ao Github do LivePub. O LivePub é um projeto Open Source que irá ajudá-lo a hospedar sua própria transmissão ao vivo. Com um painel amigável e uma forma simples de instalar! Então espero que vocês gostem e vamos começar!
 
+# Imagens
+
+[Clique aqui para acessar](https://github.com/op3ny/LivePub/tree/main?tab=readme-ov-file#images)
+
 # Vamos começar!
 
 Ok, antes de começar, você precisa tentar usar nossa demonstração do LivePub (Você pode acessar por: [Clique aqui para abrir](http://livepub.ddns.net)).
