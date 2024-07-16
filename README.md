@@ -13,9 +13,13 @@ This website will run locally on your computer, and i will explain how.
 # Requirements:
 
 Ram: 2gb
+
 CPU: (Probably will work with your CPU)
+
 Operating System: Ubuntu 22.04 LTS (I recomend you use Ubuntu 22.04 LTS or Ubuntu 20.04 LTS)
+
 Applications: ffmpeg, python3, python3-pip, nginx (The script will do that for you!)
+
 
 # The code!
 
